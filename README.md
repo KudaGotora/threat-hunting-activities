@@ -1,7 +1,7 @@
 # threat-hunting-activities
 
 # Threat Hunt Report: Sudden Network Slowdowns
-- [Scenario Creation](https://github.com/joshmadakor0/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
+- [Scenario Creation](https://github.com/KudaGotora/threat-hunting-activities/blob/main/Network%20Slowdown%20Event%20creation.md)
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
